@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to たなk Pages
 お前はすずkだな！？
 
 You can use the [editor on GitHub](https://github.com/orange775/orange775.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
