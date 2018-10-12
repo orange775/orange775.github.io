@@ -4,11 +4,8 @@
 <meta charset="UTF-8">
 <title>Welcome to our Wedding Reception!</title>
 <script type="text/javascript">
-window.onload = function() {
-	if (getParam("user") == "takahiro")
-		location.href = "https://orange775.github.io/takahiro/";
-	if (getParam("user") == "nana")
-		location.href = "https://orange775.github.io/nana/";
+window.onload = function(){
+		location.href = "https://orange775.github.io/"+getParam("user")+"/";
 }
 </script>
 <script type="text/javascript" src="js/common.js"></script>
